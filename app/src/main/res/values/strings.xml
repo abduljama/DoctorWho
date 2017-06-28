@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">DoctorWho</string>
+    <string name="minimum_password">Password too short</string>
+    <string name="auth_failed">Authentication Failed</string>
+
+
+    <array name="menuOptions">
+        <item>Explore</item>
+        <item>Appointments</item>
+        <item>About</item>
+    </array>
+
+    <array name="categories">
+        <item>Oncology</item>
+        <item>Demartology</item>
+        <item>Cardiology</item>
+        <item>Gastroentology</item>
+        <item>Orthopedics</item>
+    </array>
+
+
+    <array name="Oncology">
+        <item>Dr Tom Otieno</item>
+        <item>Dr. Kamal Shah</item>
+        <item>Dr Ali Aziz</item>
+        <item>Dr Adina Rihab</item>
+        <item>Dr Sehra Habib</item>
+    </array>
+
+    <array name="Cardiology">
+        <item>Dr Tom Otieno</item>
+        <item>Dr. Kamal Shah</item>
+        <item>Dr Ali Aziz</item>
+        <item>Dr Adina Rihab</item>
+        <item>Dr Sehra Habib</item>
+    </array>
+
+    <array name="Demartology">
+        <item>Dr Tanveer Ur Rehman</item>
+        <item>Dr. Tania Yaseem</item>
+        <item>Dr Ali Aziz</item>
+        <item>Dr Adina Rihab</item>
+        <item>Dr Sehra Habib</item>
+    </array>
+
+    <array name="Gastroentology">
+        <item>Dr Tom Otieno</item>
+        <item>Dr. Kamal Shah</item>
+        <item>Dr Ali Aziz</item>
+        <item>Dr Adina Rihab</item>
+        <item>Dr Sehra Habib</item>
+    </array>
+
+    <array name="Orthopedics">
+        <item>Dr Tom Otieno</item>
+        <item>Dr. Kamal Shah</item>
+        <item>Dr Ali Aziz</item>
+        <item>Dr Adina Rihab</item>
+        <item>Dr Sehra Habib</item>
+    </array>
+
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

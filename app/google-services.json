@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "324752821598",
+    "firebase_url": "https://doctorwho-57302.firebaseio.com",
+    "project_id": "doctorwho-57302",
+    "storage_bucket": "doctorwho-57302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324752821598:android:9582a5230aeecc8e",
+        "android_client_info": {
+          "package_name": "com.abduljama.doctorwho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324752821598-hnih0epktgshq6s92atdgn4sb3ub4md1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abduljama.doctorwho",
+            "certificate_hash": "1fa6bf8c790378b80b58a66cb938f95984c38939"
+          }
+        },
+        {
+          "client_id": "324752821598-bc0qsei0sonlisk339vgsmarrsjoqgu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZMsT2vEpydR3s3iOEVJXC3y9sUGL6o6M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324752821598-bc0qsei0sonlisk339vgsmarrsjoqgu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
